@@ -9,3 +9,9 @@ The application is read-only:
 - It does not post, comment, vote, or interact with users
 - It respects Reddit API rate limits and policies
 - No personal or private data is stored
+### Responsible Data Usage
+
+- No user profiling or identification
+- No redistribution of raw Reddit content
+- Aggregated insights only
+- Full compliance with Reddit Responsible Builder Policy
